@@ -1,0 +1,11 @@
+{
+    "name": "amy/testcomposer",
+    "description": "test composer amy",
+    "authors": [
+        {
+            "name": "Amy",
+            "email": "amy@163.com"
+        }
+    ],
+    "require": {}
+}
